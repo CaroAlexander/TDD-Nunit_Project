@@ -1,0 +1,6 @@
+C:\WorkSpace\Choucair\TDD_Project\TDD_Project\Services\bin\Debug\Services.dll
+C:\WorkSpace\Choucair\TDD_Project\TDD_Project\Services\bin\Debug\Services.pdb
+C:\WorkSpace\Choucair\TDD_Project\TDD_Project\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\WorkSpace\Choucair\TDD_Project\TDD_Project\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Choucair\TDD_Project\TDD_Project\Services\obj\Debug\Services.dll
+C:\WorkSpace\Choucair\TDD_Project\TDD_Project\Services\obj\Debug\Services.pdb
